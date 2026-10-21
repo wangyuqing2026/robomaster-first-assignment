@@ -24,9 +24,9 @@ Debug 配置编译通过（19/19 个编译、链接步骤），内存占用：
 | RAM | 1584 B | 20 KB | 7.73% |
 | FLASH | 3656 B | 64 KB | 5.58% |
 
-![编译成功截图](docs/build-success.png?v=2)
+![编译成功截图](docs/build-success.jpg)
 
-> 如果图片没有加载出来，可以直接打开 [docs/build-success.png](docs/build-success.png) 查看原图。
+> 高清原图：[docs/build-success.png](docs/build-success.png)。如果图片没有加载出来，直接打开原图链接即可。
 
 ## 目录结构
 
@@ -34,7 +34,8 @@ Debug 配置编译通过（19/19 个编译、链接步骤），内存占用：
 .
 ├── README.md
 ├── docs/
-│   └── build-success.png        # 编译成功截图
+│   ├── build-success.jpg        # 编译截图（README 预览）
+│   └── build-success.png        # 编译截图（高清原图）
 └── RM2027_FirstProject/
     ├── RM2027_FirstProject.ioc  # CubeMX 工程配置
     ├── CMakeLists.txt
