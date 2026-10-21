@@ -1,8 +1,26 @@
+# 构建产物
 build/
-.idea/
+cmake-build-*/
 *.elf
 *.map
 *.bin
 *.hex
-.o
+*.o
+*.obj
 *.d
+
+# IDE / 工具缓存
+.idea/
+.vscode/
+.cache/
+compile_commands.json
+CMakeUserPresets.json
+
+# CubeMX 临时文件与备份
+MXTmpFiles/
+*.bak
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
