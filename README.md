@@ -24,7 +24,9 @@ Debug 配置编译通过（19/19 个编译、链接步骤），内存占用：
 | RAM | 1584 B | 20 KB | 7.73% |
 | FLASH | 3656 B | 64 KB | 5.58% |
 
-![编译成功截图](docs/build-success.png)
+![编译成功截图](docs/build-success.png?v=2)
+
+> 如果图片没有加载出来，可以直接打开 [docs/build-success.png](docs/build-success.png) 查看原图。
 
 ## 目录结构
 
